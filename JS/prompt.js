@@ -1,0 +1,1 @@
+prompt('je li ovo godina 2020?','da');

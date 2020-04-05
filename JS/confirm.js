@@ -1,0 +1,1 @@
+confirm('U redu za nastaviti dalje ili nema kruha od ovoga!')
